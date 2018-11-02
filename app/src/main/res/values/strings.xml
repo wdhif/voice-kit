@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Voice Kit</string>
+    <string name="device_model_id">PLACEHOLDER</string>
+    <string name="device_instance_id">PLACEHOLDER</string>
+    <string name="language_code">en-US</string>
+    <string name="button_new_request">New Request</string>
+    <string name="button_retry">Retry</string>
+    <string name="button_listening">Listening</string>
+    <string name="html_output">HTML Output</string>
 </resources>
